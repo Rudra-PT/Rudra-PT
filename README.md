@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rudra Prakhar Tomar
 - 👀 I’m interested in front-end development and graphics designing
-- 🌱 I’m currently learning DSA in java
+- 🌱 mastered DSA
 - 📫 reach me through my gmail (rajputrudra940@gmail.com)
 - 😄 Pronouns: HE/ HIM
 - ⚡ Fun fact: I'M STILL NEWBIE
