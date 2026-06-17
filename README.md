@@ -1,8 +1,10 @@
-Front-End Developer | Proficient in HTML, CSS, JavaScript & React.js |
-Mastered DSA | Passionate about building clean, efficient, and scalable web applications |
-He/Him |
-📫 rajputrudra940@gmail.com
-<!---
-Rudra-PT/Rudra-PT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm Rudra 👋
+
+**Full Stack Python Developer | Backend Architecture & AI Integration**
+
+* 💻 **Core Stack:** Python, FastAPI, React.js, SQLite, C++
+* ⚙️ **Currently Building:** Echo Overflow — A decoupled, scalable full-stack Q&A platform.
+* 🧠 **Problem Solving:** Actively engaged in competitive programming and Data Structures & Algorithms using C++.
+* 🔭 **Future Focus:** RAG (Retrieval-Augmented Generation) and Machine Learning.
+* 📫 **Reach me at:** rajputrudra940@gmail.com
+* ⚡ **Pronouns:** He/Him
