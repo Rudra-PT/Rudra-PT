@@ -28,10 +28,3 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-PT&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Rudra-PT&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
