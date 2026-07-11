@@ -19,12 +19,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,cpp,linux,git,sqlite,postgres,docker,js,html,css&perline=12" alt="My Skills" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rudra-PT&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
 
 ---
 
