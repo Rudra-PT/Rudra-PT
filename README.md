@@ -6,14 +6,12 @@
 <br/>
 
 ### 👨‍💻 About Me
-* 💼 **Machine Learning Intern** at Prodigy Infotech.
 * 🚀 Built and launched **ask-overflow**, a multi-user Q/A platform.
 * 🔭 Developing **ask-echo**, a RAG-powered PDF and photo analyzer.
 * 🌱 Core focus in AI Engineering, specializing in **LLMs, RAG architectures, and Vector Databases**.
 * 🎯 Conquered **530+ LeetCode problems** in C++.
 * ⚙️ Architecting backends with **Python & FastAPI** (utilizing strict `src` folder structures), managing data with **PostgreSQL & SQLite**, and containerizing environments with **Docker**.
 * 💬 Ask me about **building RAG pipelines, FastAPI routing, or navigating Linux environments**.
-* ⚡ Fun fact: When I'm stepping away from the terminal, I'm usually testing the limits of my RTX 3050 with games like Cyberpunk 2077 or Red Dead Redemption 2.
 
 ---
 
@@ -23,11 +21,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-PT&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Rudra-PT&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
