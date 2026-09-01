@@ -9,7 +9,7 @@
 * 🚀 Built and launched **ask-overflow**, a multi-user Q/A platform.
 * 🔭 Developed **ask-echo**, a RAG-powered PDF and photo analyzer.
 * 🌱 Core focus in AI Engineering, specializing in **LLMs, RAG architectures, and Vector Databases**.
-* 🎯 Conquered **530+ LeetCode problems** in C++.
+* 🎯 Conquered **600+ LeetCode problems** in C++.
 * ⚙️ Architecting backends with **Python & FastAPI** (utilizing strict `src` folder structures), managing data with **PostgreSQL & SQLite**, and containerizing environments with **Docker**.
 * 💬 Ask me about **building RAG pipelines, FastAPI routing, or navigating Linux environments**.
 
